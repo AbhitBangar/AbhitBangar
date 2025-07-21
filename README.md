@@ -18,7 +18,7 @@
 name: "Abhit Anant Bangar"
 location: "Mumbai, India"
 education: "Computer Engineering | University of Mumbai | CGPA: 7.8"
-current_focus: ["Full Stack Development",   "Research"]
+current_focus: ["Full Stack Development", "Research"]
 interests: ["AI/ML", "Java Development", "Web Development", "Open Source", "Research Writing"]
 ```
 
