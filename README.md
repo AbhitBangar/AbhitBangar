@@ -1,7 +1,13 @@
-# 👋 Hello, I'm Abhit Anant Bangar!
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Engineering+Graduate;Research+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Hello%2C+I'm+Abhit+Anant+Bangar!;Welcome+to+my+GitHub+Profile!;Let's+Code+Something+Amazing!" alt="Animated Greeting" />
+</div>
+
+<div align="center">
+  <h1>Computer Engineer | Full Stack Developer | Research Writer</h1>
 </div>
 
 <p align="center">
@@ -87,6 +93,11 @@ interests: ["AI/ML", "Java Development", "Web Development", "Open Source", "Rese
 **Java | Networking | GUI**
 - Real-time chat application with multi-user support
 - Socket programming for client-server communication
+
+### 📚 [Striver A2Z DSA Sheet](https://github.com/AbhitBangar/StriverA2ZDSASheet)
+**Java | Data Structures | Algorithms**
+- Comprehensive solutions to coding interview problems
+- Systematic approach to mastering DSA concepts
 
 ---
 
