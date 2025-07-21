@@ -16,6 +16,11 @@
   <a href="https://linkedin.com/in/abhitbangar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
+<div align="center">
+  
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
+
 ---
 
 ## 🚀 About Me
