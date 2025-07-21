@@ -94,18 +94,9 @@ interests: ["AI/ML", "Java Development", "Web Development", "Open Source", "Rese
 - Real-time chat application with multi-user support
 - Socket programming for client-server communication
 
-### 📚 [Striver A2Z DSA Sheet](https://github.com/AbhitBangar/StriverA2ZDSASheet)
-**Java | Data Structures | Algorithms**
-- Comprehensive solutions to coding interview problems
-- Systematic approach to mastering DSA concepts
-
 ---
 
 ## 🏆 Achievements & Recognition
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AbhitBangar&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
 
 ### 📚 Publications & Research
 - 📖 **Author**: "The Legacy of Vedic Engineering for Modern Applications"
@@ -117,10 +108,15 @@ interests: ["AI/ML", "Java Development", "Web Development", "Open Source", "Rese
 - ✅ **150+ Problems** solved across coding platforms
 - 🥇 **1st Rank** in Intra-College Logic Hunt Competition, Techfest-2023
 - 💻 Active on: [LeetCode](https://leetcode.com) | [CodeChef](https://codechef.com) | [GeeksforGeeks](https://geeksforgeeks.org)
+<br>
 
 ---
 
 ## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AbhitBangar&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhitBangar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats"/>
