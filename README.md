@@ -28,16 +28,14 @@
 ```yaml
 name: "Abhit Anant Bangar"
 location: "Mumbai, India"
-education: "Computer Engineering | University of Mumbai | CGPA: 7.8"
-current_focus: ["Full Stack Development", "Research"]
-interests: ["AI/ML", "Java Development", "Web Development", "Open Source", "Research Writing"]
+education: "Computer Engineering | University of Mumbai"
+interests: ["Full Stack Development", "AI/ML", "Open Source", "Research Writing"]
 ```
 
-🎓 **Computer Engineering Graduate** passionate about leveraging technology to solve real-world problems  
-🔬 **Research Enthusiast** with publications in IEEE journals and international conferences  
-💻 **Full Stack Developer** experienced in modern web technologies and frameworks  
+💻 **Full Stack Developer** experienced in modern technologies and frameworks  
 📚 **Author** of "The Legacy of Vedic Engineering for Modern Applications"  
 🏆 **Competitive Programmer** with 150+ problems solved across various platforms
+🔬 **Research Enthusiast** with publications in IEEE & Springer journals and presented in international conferences  
 
 ---
 
@@ -94,11 +92,6 @@ interests: ["AI/ML", "Java Development", "Web Development", "Open Source", "Rese
 - 🎥 Level 3: Video-Based Q&A
 - 📱 Responsive design for cross-platform accessibility
 
-### 💬 [ChatRoom Application](https://github.com/AbhitBangar/ChatRoom)
-**Java | Networking | GUI**
-- Real-time chat application with multi-user support
-- Socket programming for client-server communication
-
 ---
 
 ## 🏆 Achievements & Recognition
@@ -114,6 +107,20 @@ interests: ["AI/ML", "Java Development", "Web Development", "Open Source", "Rese
 - 🥇 **1st Rank** in Intra-College Logic Hunt Competition, Techfest-2023
 - 💻 Active on: [LeetCode](https://leetcode.com) | [CodeChef](https://codechef.com) | [GeeksforGeeks](https://geeksforgeeks.org)
 <br>
+
+---
+
+## 💼 Professional Experience & Leadership
+
+<div align="center">
+
+| Role | Organization | Duration |
+|------|--------------|----------|
+| 🎯 **President** | IEEE Students Committee, ARMIET | 2022-2025 |
+| 🔬 **Head Boy** | Research & Development Department, ARMIET | 2023-2025 |
+| 🌟 **Leader** | NSS Unit, ARMIET | 2023-2024 |
+
+</div>
 
 ---
 
@@ -136,34 +143,6 @@ interests: ["AI/ML", "Java Development", "Web Development", "Open Source", "Rese
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhitBangar&custom_title=Abhit's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
 </div>
 
----
-
-## 💼 Professional Experience & Leadership
-
-<div align="center">
-
-| Role | Organization | Duration |
-|------|--------------|----------|
-| 🎯 **President** | IEEE Students Committee, ARMIET | 2022-2025 |
-| 🔬 **Head Boy** | Research & Development Department, ARMIET | 2023-2025 |
-| 🌟 **Leader** | NSS Unit, ARMIET | 2023-2024 |
-
-</div>
-
----
-
-## 🔥 Current Focus
-
-```javascript
-const currentFocus = {
-    learning: ["Advanced Spring Boot", "Microservices", "AWS Cloud Services"],
-    building: ["Full Stack Applications", "AI/ML Projects"],
-    writing: ["Research Papers", "Technical Articles"],
-    contributing: ["Open Source Projects", "Community Initiatives"]
-};
-
-console.log("Always learning, always growing! 🚀");
-```
 ---
 
 ## 🤝 Let's Connect!
