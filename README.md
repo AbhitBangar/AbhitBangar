@@ -34,7 +34,7 @@ interests: ["Full Stack Development", "AI/ML", "Open Source", "Research Writing"
 
 💻 **Full Stack Developer** experienced in modern technologies and frameworks  
 📚 **Author** of "The Legacy of Vedic Engineering for Modern Applications"  
-🏆 **Competitive Programmer** with 150+ problems solved across various platforms
+🏆 **Competitive Programmer** with 150+ problems solved across various platforms  
 🔬 **Research Enthusiast** with publications in IEEE & Springer journals and presented in international conferences  
 
 ---
