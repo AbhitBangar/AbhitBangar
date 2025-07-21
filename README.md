@@ -30,20 +30,6 @@ interests: ["AI/ML", "Java Development", "Web Development", "Open Source", "Rese
 
 ---
 
-## 💼 Professional Experience & Leadership
-
-<div align="center">
-
-| Role | Organization | Duration |
-|------|--------------|----------|
-| 🎯 **President** | IEEE Students Committee, ARMIET | 2022-2025 |
-| 🔬 **Head Boy** | Research & Development Department, ARMIET | 2023-2025 |
-| 🌟 **Leader** | NSS Unit, ARMIET | 2023-2024 |
-
-</div>
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -142,6 +128,20 @@ interests: ["AI/ML", "Java Development", "Web Development", "Open Source", "Rese
 
 ---
 
+## 💼 Professional Experience & Leadership
+
+<div align="center">
+
+| Role | Organization | Duration |
+|------|--------------|----------|
+| 🎯 **President** | IEEE Students Committee, ARMIET | 2022-2025 |
+| 🔬 **Head Boy** | Research & Development Department, ARMIET | 2023-2025 |
+| 🌟 **Leader** | NSS Unit, ARMIET | 2023-2024 |
+
+</div>
+
+---
+
 ## 🔥 Current Focus
 
 ```javascript
@@ -154,24 +154,6 @@ const currentFocus = {
 
 console.log("Always learning, always growing! 🚀");
 ```
-
----
-
-## 🌟 Fun Facts
-
-- 🔬 I bridge ancient Vedic engineering principles with modern technology
-- 🎯 I've successfully led IEEE Student Committee, Research & Development Department & NSS Unit with 150+ members
-- 📚 Research and development is my passion - I love exploring new technologies
-- 🏆 Competitive programming keeps my problem-solving skills sharp
-- 🌱 Always excited to collaborate on innovative projects
-
----
-
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ---
 
 ## 🤝 Let's Connect!
