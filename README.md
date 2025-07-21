@@ -8,7 +8,6 @@
   <a href="https://abhitbangar.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"></a>
   <a href="mailto:abhitbangar333@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/abhitbangar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/AbhitBangar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -18,10 +17,9 @@
 ```yaml
 name: "Abhit Anant Bangar"
 location: "Mumbai, India"
-education: "Computer Engineering | University of Mumbai | CGPA: 7.9"
-current_focus: ["Full Stack Development", "Deep Learning", "Research"]
-role: "President @ IEEE Students Committee, ARMIET"
-interests: ["AI/ML", "Web Development", "Open Source", "Research Writing"]
+education: "Computer Engineering | University of Mumbai | CGPA: 7.8"
+current_focus: ["Full Stack Development",   "Research"]
+interests: ["AI/ML", "Java Development", "Web Development", "Open Source", "Research Writing"]
 ```
 
 🎓 **Computer Engineering Graduate** passionate about leveraging technology to solve real-world problems  
