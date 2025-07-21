@@ -44,6 +44,7 @@ interests: ["AI/ML", "Java Development", "Web Development", "Open Source", "Rese
 
 ### 🚀 Frameworks & Technologies
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
@@ -56,8 +57,10 @@ interests: ["AI/ML", "Java Development", "Web Development", "Open Source", "Rese
 ### 🔧 Development Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-FF6B35?style=for-the-badge&logo=windsurf&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -84,11 +87,6 @@ interests: ["AI/ML", "Java Development", "Web Development", "Open Source", "Rese
 **Java | Networking | GUI**
 - Real-time chat application with multi-user support
 - Socket programming for client-server communication
-
-### 📚 [Striver A2Z DSA Sheet](https://github.com/AbhitBangar/StriverA2ZDSASheet)
-**Java | Data Structures | Algorithms**
-- Comprehensive solutions to coding interview problems
-- Systematic approach to mastering DSA concepts
 
 ---
 
