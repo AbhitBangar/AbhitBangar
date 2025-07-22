@@ -105,7 +105,7 @@ interests: ["Full Stack Development", "AI/ML", "Open Source", "Research Writing"
 ### 🏅 Competitive Programming
 - ✅ **150+ Problems** solved across coding platforms
 - 🥇 **1st Rank** in Intra-College Logic Hunt Competition, Techfest-2023
-- 💻 Active on: [LeetCode](https://leetcode.com) | [CodeChef](https://codechef.com) | [GeeksforGeeks](https://geeksforgeeks.org)
+- 💻 Active on: [LeetCode](https://leetcode.com/u/abhitbangar) | [CodeChef](https://www.codechef.com/users/abhit_333) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/theabhitbangar) | [HackerRank](https://www.hackerrank.com/profile/abhitbangar)
 <br>
 
 ---
